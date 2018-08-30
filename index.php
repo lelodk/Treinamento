@@ -1,8 +1,8 @@
 <?php
 
-echo "Hello Relampago Marquinhos";
+echo "Hello Marquinhos";
 echo "Vai Parana Clube";
-echo "Buzzlightyears";
+echo "Buzzlightyear";
 
 
 ?>
